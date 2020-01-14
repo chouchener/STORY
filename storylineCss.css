@@ -248,7 +248,7 @@ audio {
 
 /* Caption text */
 .text {
-  color: #ff44ff;
+  color: white;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
