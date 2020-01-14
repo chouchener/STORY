@@ -62,6 +62,7 @@ footer {
   height: 250px;
   margin-top: -125px; /* Half the height */
   margin-left: -125px; 
+  z-index: 100;
 
 }
 .icone2:hover {
